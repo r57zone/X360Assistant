@@ -5,9 +5,6 @@
 # X360Assistant
 Utility to change volume and take screenshots with Xbox gamepad.
 
-[![](https://user-images.githubusercontent.com/9499881/164945071-5b9f86dd-c396-45a5-817b-fc7068450f02.gif)](https://youtu.be/gkyqO_HuPnk)
-[![](https://user-images.githubusercontent.com/9499881/164945073-cfa1bfb7-cb82-4714-b2ad-7ecd84a5bcfc.gif)](https://youtu.be/gkyqO_HuPnk)
-
 # Features
 To use the utility, go to settings → Xbox Game Bar and uncheck the "Open Xbox Game Bar by pressing the Xbox button" option. Game Bar will still open the utility, but in a slightly different way. You can exit the Game Bar by pressing the `B` button.
 
