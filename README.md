@@ -16,6 +16,10 @@ The volume is changed by pressing `Xbox + X`, `Xbox + B` or `Xbox + DPAD ←`, `
 
 A screenshot is created by simultaneously pressing one of the combinations: `Xbox + A`, `Xbox + DPAD ↑`, `Xbox + DPAD ↓`, `Xbox + LB`, `Xbox + RB` (choose one that doesn't interfere with play). Screenshot can be created in several modes: Game Bar (standard), Steam (pressing F12), Game Bar and Steam (simultaneously).
 
+
+
+For autorun, add a shortcut to the "X360Assistant.exe" program to startup - Windows `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`.
+
 ## Download
 >Version for Windows 10, 11.
 

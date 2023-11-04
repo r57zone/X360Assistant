@@ -15,6 +15,10 @@
 
 Скриншот создается одновременным нажатием одной из комбинаций: `Xbox + A`, `Xbox + DPAD ↑`, `Xbox + DPAD ↓`, `Xbox + LB`, `Xbox + RB` (выберите ту, которая не мешает игре). Скриншот может создаваться в нескольких режимах: Game Bar (стандартный), Steam (нажатие F12), Game Bar и Steam (одновременно).
 
+
+
+Для автозапуска добавьте ярлык программы "X360Assistant.exe" в автозагрузку - Windows `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`.
+
 ## Загрузка
 >Версия для Windows 10, 11.
 
